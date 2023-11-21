@@ -23,6 +23,29 @@ This project makes use of the following technologies and tools:
  
 These technologies work together to create a dynamic and responsive profile page, providing a seamless user experience across different devices and screen sizes.
 
+## Getting Started
+
+To run the app, first clone the repository to your local machine:
+
+```
+git clone  https://github.com/likhit26/terrible-tiny-tales-assignment.git
+```
+
+Then, navigate to the project directory and install the required dependencies:
+
+```
+cd terrible-tiny-tales-assignment
+npm install
+```
+
+Finally, start the development server:
+
+```
+npm start
+```
+
+This will open the app in your default browser at http://localhost:3000.
+
  ## Acknowledgment
  I'm thrilled to share this React app, crafted with dedication and enthusiasm, as part of an exciting coding assignment. Gratitude to Terribly Tiny Tales for providing this incredible 
  opportunity!
