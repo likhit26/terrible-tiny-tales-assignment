@@ -2,7 +2,7 @@
 
 This React application is a simple profile screen that renders information about the user named Tom Hiddleston, famously known as Loki in Marvel Cinematic Universe. The project uses hardcoded profile data stored in a local JSON file to display details about Marvel movies after the introduction of Multiverse concept(Phase 5).
 
-## It is hosted on netlify. Click on to visit: https://likhit-terriblytinytales.netlify.app/
+## It is hosted on netlify. Click the link to visit: https://likhit-terriblytinytales.netlify.app/
 
 ## Features
 - Crafted with responsiveness in mind, this app seamlessly adapts to diverse screen sizes.
