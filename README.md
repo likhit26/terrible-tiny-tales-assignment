@@ -1,3 +1,15 @@
+# React Profile Screen Project
+
+This project is a simple React application that renders a profile screen using hardcoded profile data stored in a local JSON file.
+
+## Project Overview
+
+The project includes the following components:
+
+- **About Component:** Displays information about the user named Tom Hiddleston(Famously known as Loki in Marvel Cinematic Universe).
+- **Posts Component:** Display Marvel Movie details after introuction of Multiverse concept(Phase 5) .
+- **Components Folder:** Organizes React components.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
