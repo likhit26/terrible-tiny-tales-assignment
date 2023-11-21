@@ -1,0 +1,88 @@
+{
+    "profile": {
+      "name": "Tom Hiddleston ",
+      "background" : "https://wallpapers.com/images/hd/4k-marvel-digital-cartoon-t9z4pnuivn6488jq.jpg",
+      "pic" : "https://img.etimg.com/thumb/width-640,height-480,imgsize-50744,resizemode-75,msid-104947899/news/international/us/ending-of-loki-season-2-episode-5-explained/loki.jpg",
+      "followers": 5369,
+      "following": 2428,
+      "position" : "Co-founder & CEO at Time Variance Authority",
+      "link" : "https://github.com/likhit26",
+      "stars": 100,
+      "likes": "36K",
+      "views": "92k",
+      "hearts": 11169
+    },
+    "posts": [
+      {
+          "title": "Doctor Strange in the Multiverse of Madness",
+          "content": "Dr. Stephen Strange, navigating through twisted realities, teaming up with Scarlet Witch to confront a formidable mystical threat endangering the multiverse.",
+          "date": "May 6",
+          "read_time": "11 min",
+          "views": 350
+      },
+      {
+          "title": "Thor: Love and Thunder ",
+          "content": "Doctor Strange makes a cameo appearance, joining forces with the God of Thunder, Thor, as they embark on a cosmic adventure, tackling otherworldly challenges and facing powerful foes to protect the realms.",
+          "date": "July 6",
+          "read_time": "13 min",
+          "views": 400
+      },
+      {
+          "title": "Black Panther: Wakanda Forever",
+          "content": "T'Challa and the future of Wakanda, as the nation grapples with the loss of its king, paving the way for new heroes and challenges that test the strength of the African kingdom.",
+          "date": "November 11",
+          "read_time": "16 min",
+          "views": 450
+      },
+      {
+          "title": " Ant-Man and the Wasp: Quantumania",
+          "content": "Explore the cutting-edge trends shaping the future of microservices architecture. From serverless integration to advanced communication protocols, stay informed on the latest advancements.",
+          "date": "February 17",
+          "read_time": "18 min",
+          "views": 500
+      },
+      {
+          "title": "Guardians of the Galaxy Vol. 3 ",
+          "content": "It follows the intergalactic misfits as they navigate cosmic conflicts, uncover the mysteries of Star-Lord's parentage, and face new threats, all while continuing their comedic camaraderie and eclectic adventures across the Marvel Cinematic Universe",
+          "date": "July 6",
+          "read_time": "20 min",
+          "views": 550
+      },
+      {
+          "title": "Loki season 2",
+          "content": "It delves deeper into the multiverse's chaos as the God of Mischief navigates alternate realities, encountering unexpected allies and foes, all while exploring the implications of his actions and the mysteries surrounding the Time Variance Authority.",
+          "date": "October 5",
+          "read_time": "22 min",
+          "views": 600
+      },
+      {
+          "title": "The Marvels",
+          "content": "Dive into the evolving landscape of serverless computing and its transformative potential. Discover emerging trends, use cases, and best practices for the future of serverless.",
+          "date": "November 7",
+          "read_time": "22 min",
+          "views": 450
+      },
+      {
+          "title": "Deadpool 3",
+          "content": "Deadpool 3 promises a new chapter in the irreverent and chaotic adventures of the Merc with a Mouth, as Deadpool navigates the Marvel Cinematic Universe with his unique blend of humor, mayhem, and breaking the fourth wall.",
+          "date": "July 26",
+          "read_time": "20 min",
+          "views": 550
+      },
+      {
+          "title": "Captain America: Brave New World",
+          "content": "Steve Rogers is transported to an alternate reality where historical events unfolded differently, forcing him to navigate a world where the balance of power and alliances has dramatically shifted",
+          "date": "February 14",
+          "read_time": "16 min",
+          "views": 520
+      },
+      {
+        "title": "Avengers the kang dynasty",
+        "content": "The Avengers confront Kang the Conqueror, who utilizes his mastery over time to create a dystopian empire, prompting the heroes to navigate temporal twists and unite against an unprecedented threat to reality.",
+        "date": "May 1",
+        "read_time": "25 min",
+        "views": 650
+    }
+  ]
+}
+  
