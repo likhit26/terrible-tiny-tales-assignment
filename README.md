@@ -1,4 +1,4 @@
-# Terribly Tiny Tales
+# Terribly Tiny Tales React Profile Screen Project
 
 This React application is a simple profile screen that renders information about the user named Tom Hiddleston, famously known as Loki in Marvel Cinematic Universe. The project uses hardcoded profile data stored in a local JSON file to display details about Marvel movies after the introduction of Multiverse concept(Phase 5).
 
